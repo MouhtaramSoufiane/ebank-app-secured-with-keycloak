@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/ebank-service-secured/demo.iml" filepath="$USER_HOME$/Desktop/ebank-service-secured/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebank-app-keycloak.iml" filepath="$PROJECT_DIR$/ebank-app-keycloak.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/wallet-front-angular-secured/wallet-front-angular-secured.iml" filepath="$USER_HOME$/Desktop/wallet-front-angular-secured/wallet-front-angular-secured.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/wallet-service-secured/wallet-service.iml" filepath="$USER_HOME$/Desktop/wallet-service-secured/wallet-service.iml" />
+    </modules>
+  </component>
+</project>
